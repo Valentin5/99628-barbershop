@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Валентин Спивак](https://up.htmlacademy.ru/htmlcss/14/user/99628).
-* Наставник: [Владимир Меркулов](https://htmlacademy.ru/profile/straniks).
+* Наставник: [Игорь Беликов](https://htmlacademy.ru/profile/id201027).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
